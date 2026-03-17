@@ -57,6 +57,7 @@ export const projectsData = [
   code: "https://github.com/abelzeruhaileselassie-png/simple-weather-app",
   status: "completed",
   progress: 100
+
 },
   {
     id: 6,
