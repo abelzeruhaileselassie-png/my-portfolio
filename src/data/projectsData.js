@@ -4,34 +4,34 @@ export const projectsData = [
   {
     id: 1,
     title: "Amazon clone",
-    description: "A brief description of what your project does and its main features.",
-    technologies: ["React", "Node.js", "MongoDB"], // List technologies used
-    image: "📦", // Choose an emoji
-    demo: "http://localhost:3000", // Localhost URL or live URL
-    code: "https://github.com/abelzeruhaileselassie-png/amazon", // GitHub URL
-    status: "development", // 'development', 'completed', or 'planned'
-    progress: 85, // Percentage complete (0-100)
-    startCommand: "npm run seed, npm run dev" // Command to start the project locally
+    description: "A commerce website clone of Amazon.com",
+    technologies: ["React18", "vite", "Node.js", "Express.Js", "MongoDB"], 
+    image: "📦", 
+    demo: "http://localhost:3000",
+    code: "https://github.com/abelzeruhaileselassie-png/amazon", 
+    status: "development", 
+    progress: 85, 
+    startCommand: "npm run seed, npm run dev" 
   },
    {
     id: 2,
     title: "Moving Company",
-    description: "A moving company website",
-    technologies: ["React", "Node.js", "tailwind CSS"], // List technologies used
-    image: "🚛", // Choose an emoji
-    demo: "http://localhost:5173/", // Localhost URL or live URL
-    code: "https://github.com/abelzeruhaileselassie-png/moving-company", // GitHub URL
-    status: "development", // 'development', 'completed', or 'planned'
-    progress: 90, // Percentage complete (0-100)
-    startCommand: "npm run dev" // Command to start the project locally
+    description: "MovePro is a full-stack moving company platform enabling customers to book moves, request quotes, and leave reviews, while giving admins complete control over content, services, and website appearance.",
+    technologies: ["React18", "tailwind CSS", "Node.js", "Express.js", "MongoDB"], 
+    image: "🚛", 
+    demo: "http://localhost:5173/", 
+    code: "https://github.com/abelzeruhaileselassie-png/moving-company", 
+    status: "development", 
+    progress: 90, 
+    startCommand: "npm run dev" 
   },
   {
     id: 3,
     title: "sports hub commerce app",
-    description: "A sport goods store simple website",
-    technologies: ["React", "Node.js", "MongoDB"],
+    description: "SportHub is a fully interactive sporting goods e-commerce platform that allows users to browse, search, and purchase athletic equipment and gear.",
+    technologies: ["HTML5", "CSS3", "Javascript(ES6+)"],
     image: "🛍️",
-    demo: "https://abelzeruhaileselassie-png.github.io/sportshub/", // Live URL
+    demo: "https://abelzeruhaileselassie-png.github.io/sportshub/", 
     code: "https://github.com/abelzeruhaileselassie-png/sportshub",
     status: "completed",
     progress: 100
@@ -39,8 +39,8 @@ export const projectsData = [
   {
     id: 4,
     title: "Task Management App",
-    description: "Collaborative task management tool with real-time updates.",
-    technologies: ["HTML", "CSS", "Javascript"],
+    description: "A minimalist and intuitive task management application that helps users organize their daily activities efficiently",
+    technologies: ["HTML5", "CSS3", "Javascript(ES6+)"],
     image: "✅",
     demo: "https://abelzeruhaileselassie-png.github.io/task-manager/",
     code: "https://github.com/abelzeruhaileselassie-png/task-manager",
@@ -50,8 +50,8 @@ export const projectsData = [
   {
   id: 5,
   title: "Weather Dashboard",
-  description: "Real-time weather information with interactive maps and forecasts.",
-  technologies: ["OpenWeather API", "Vercel"],
+  description: "A full-screen interactive weather application that displays real-time weather data and precipitation maps for cities worldwide.",
+  technologies: ["HTML5", "CSS3", "Vanilla JavaScript (ES6+)", "OpenWeather API", "Vercel"],
   image: "🌤️",
   demo: "https://simple-weather-app-nine-psi.vercel.app",  
   code: "https://github.com/abelzeruhaileselassie-png/simple-weather-app",
@@ -63,27 +63,29 @@ export const projectsData = [
     id: 6,
     title: "markdown converter",
     description: "simple markdown to raw HTML and HTML preview converter",
-    technologies: ["HTML"],
+    technologies: ["HTML5", "Javascript"],
     image: "📝",
     demo: "https://abelzeruhaileselassie-png.github.io/md-converter/", 
     code: "https://github.com/abelzeruhaileselassie-png/md-converter",
     status: "completed",
     progress: 100
    },
-     {
-    id: 7,
-    title: "Portfolio Website",
-    description: "This very portfolio website you're looking at!",
-    technologies: ["React", "Tailwind CSS", "Vite"],
-    image: "👨‍💻",
-    demo: "https://abelzeruhaileselassie-png.github.io/my-portfolio/",
-    code: "https://github.com/abelzeruhaileselassie-png/my-portfolio"
-  },
+    {
+  id: 7,
+  title: "Portfolio Website",
+  description: "Personal dev portfolio. (React, Tailwind, Vite)",
+  technologies: ["React", "Tailwind CSS", "Vite", "React Icons"],
+  image: "👨‍💻",
+  demo: "https://abelzeruhaileselassie-png.github.io/my-portfolio/",
+  code: "https://github.com/abelzeruhaileselassie-png/my-portfolio",
+  status: "completed",
+  progress: 100
+},
   {
     id: 8,
     title: "Apple page",
-    description: "A simple task management app with drag-and-drop functionality.",
-    technologies: ["React", "Jquery", "bootstrap"],
+    description: "Apple-style home page. ",
+    technologies: ["HTML5", "CSS3", "Javascript(ES6+)"],
     image: "💻",
     demo: "https://abelzeruhaileselassie-png.github.io/apple-page/",
     code: "https://github.com/abelzeruhaileselassie-png/apple-page",
