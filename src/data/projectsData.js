@@ -4,7 +4,7 @@ export const projectsData = [
   {
     id: 1,
     title: "Amazon clone",
-    description: "A commerce website clone of Amazon.com",
+    description: "A fully functional Amazon Clone e-commerce platform built with modern web technologies. This project replicates core Amazon features including product browsing, shopping cart, search functionality, category filtering, and a responsive UI that closely mimics the actual Amazon.com experience.",
     technologies: ["React18", "vite", "Node.js", "Express.Js", "MongoDB"], 
     image: "📦", 
     demo: "http://localhost:3000",
