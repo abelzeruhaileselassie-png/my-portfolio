@@ -38,17 +38,6 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Apple page",
-    description: "A simple task management app with drag-and-drop functionality.",
-    technologies: ["React", "Jquery", "bootstrap"],
-    image: "💻",
-    demo: "https://abelzeruhaileselassie-png.github.io/apple-page/",
-    code: "https://github.com/abelzeruhaileselassie-png/apple-page",
-     status: "development",
-    progress: 50
-  },
-  {
-    id: 5,
     title: "Task Management App",
     description: "Collaborative task management tool with real-time updates.",
     technologies: ["HTML", "CSS", "Javascript"],
@@ -59,7 +48,7 @@ export const projectsData = [
     progress: 100
   },
   {
-  id: 6,
+  id: 5,
   title: "Weather Dashboard",
   description: "Real-time weather information with interactive maps and forecasts.",
   technologies: ["OpenWeather API", "Vercel"],
@@ -70,7 +59,7 @@ export const projectsData = [
   progress: 100
 },
   {
-    id: 7,
+    id: 6,
     title: "markdown converter",
     description: "simple markdown to raw HTML and HTML preview converter",
     technologies: ["HTML"],
@@ -81,13 +70,24 @@ export const projectsData = [
     progress: 100
    },
      {
-    id: 8,
+    id: 7,
     title: "Portfolio Website",
     description: "This very portfolio website you're looking at!",
     technologies: ["React", "Tailwind CSS", "Vite"],
     image: "👨‍💻",
     demo: "https://abelzeruhaileselassie-png.github.io/my-portfolio/",
     code: "https://github.com/abelzeruhaileselassie-png/my-portfolio"
+  },
+  {
+    id: 8,
+    title: "Apple page",
+    description: "A simple task management app with drag-and-drop functionality.",
+    technologies: ["React", "Jquery", "bootstrap"],
+    image: "💻",
+    demo: "https://abelzeruhaileselassie-png.github.io/apple-page/",
+    code: "https://github.com/abelzeruhaileselassie-png/apple-page",
+     status: "development",
+    progress: 50
   }
   
 ];
