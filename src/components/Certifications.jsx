@@ -34,22 +34,6 @@ const Certifications = () => {
       date: "2022",
       icon: <FaMedal />,
       color: "from-green-500 to-emerald-500"
-    },
-    {
-      id: 5,
-      title: "AWS Cloud Practitioner",
-      issuer: "Amazon Web Services",
-      date: "2023",
-      icon: <FaCloud />,
-      color: "from-orange-500 to-red-500"
-    },
-    {
-      id: 6,
-      title: "Python for Data Science",
-      issuer: "IBM",
-      date: "2023",
-      icon: <FaTrophy />,
-      color: "from-indigo-500 to-purple-500"
     }
   ];
 

@@ -69,9 +69,8 @@ const Contact = () => {
         
         <div className="flex gap-4">
           {[
-            { icon: FaGithub, href: 'https://github.com' },
-            { icon: FaLinkedin, href: 'https://linkedin.com' },
-            { icon: FaTwitter, href: 'https://twitter.com' },
+            { icon: FaGithub, href: 'https://github.com/abelzeruhaileselassie-png' },
+            { icon: FaLinkedin, href: 'www.linkedin.com/in/abel-zeru-haileselassie-4453733b8' },
           ].map((item, index) => (
             <a
               key={index}
