@@ -86,8 +86,8 @@ export const projectsData = [
     description: "This very portfolio website you're looking at!",
     technologies: ["React", "Tailwind CSS", "Vite"],
     image: "👨‍💻",
-    demo: "#",
-    code: "https://github.com/yourusername/portfolio"
+    demo: "https://abelzeruhaileselassie-png.github.io/my-portfolio/",
+    code: "https://github.com/abelzeruhaileselassie-png/my-portfolio"
   }
   
 ];
